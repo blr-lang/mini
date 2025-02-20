@@ -1,0 +1,2 @@
+File "match0.bad-input", line 3, characters 32-33:
+ `unit' cannot be unified with `int'.

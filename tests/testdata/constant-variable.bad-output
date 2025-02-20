@@ -1,0 +1,2 @@
+File "constant-variable.bad-input", line 3, characters 17-26:
+ `t' type constructor is used as a type variable.

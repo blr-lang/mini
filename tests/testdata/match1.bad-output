@@ -1,0 +1,2 @@
+File "match1.bad-input", line 7, characters 11-16:
+ `int' cannot be unified with `t a'.

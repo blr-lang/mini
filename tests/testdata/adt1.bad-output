@@ -1,0 +1,2 @@
+File "adt1.bad-input", line 2, characters 8-9:
+ This data constructor needs 0 arguments not 1.

@@ -1,0 +1,2 @@
+File "empty.bad-input", line 6, characters 10-11:
+ `t' cannot be unified with `f'.

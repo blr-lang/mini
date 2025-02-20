@@ -1,0 +1,2 @@
+File "invalid-record-type.bad-input", line 1, characters 10-47:
+ Multiple definition of label l1.

@@ -1,0 +1,2 @@
+File "partial-app.bad-input", line 3, characters 8-9:
+ This data constructor needs 2 arguments not 1.

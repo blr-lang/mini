@@ -10,6 +10,8 @@ pub enum Term<T> {
     Var(T),
 }
 
+pub struct Label(String);
+
 impl<T> Term<T> {
     pub fn iter(&self, f: impl Fn(&T)) {
         match self {

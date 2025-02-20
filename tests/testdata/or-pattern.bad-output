@@ -1,0 +1,2 @@
+File "or-pattern.bad-input", line 10, characters 4-37:
+ A disjunction pattern must bind exactly the same variables.

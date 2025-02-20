@@ -1,0 +1,2 @@
+File "adt2.bad-input", line 8, characters 12-13:
+ `list int' cannot be unified with `int'.

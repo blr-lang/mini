@@ -1,0 +1,2 @@
+File "two-occurences-of-label.bad-input", line 1, characters 9-30:
+ Multiple definition of label l.

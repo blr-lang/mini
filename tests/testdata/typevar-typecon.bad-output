@@ -1,0 +1,2 @@
+File "typevar-typecon.bad-input", line 1, characters 20-21:
+ `pre' type constructor is used as a type variable.

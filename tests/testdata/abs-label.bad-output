@@ -1,0 +1,2 @@
+File "abs-label.bad-input", line 5, characters 10-11:
+ `pre a' cannot be unified with `abs'.
